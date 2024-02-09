@@ -39,7 +39,6 @@ fun DigitalClock() {
 
                     time = calendar.time.toAnalog()
 
-                    println(time)
                     delay(1000)
                 }
             }
